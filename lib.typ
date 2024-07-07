@@ -204,12 +204,8 @@
 
 #let lang-db = state("lang-db",(
   "en":(
-    "units":(_unit-csv("units-en.csv")),
-    "prefixes":(_prefix-csv("prefixes-en.csv")),
-    ),
-  "ru":(
-    "units":(_unit-csv("units-ru.csv")),
-    "prefixes":(_prefix-csv("prefixes-ru.csv")),
+    "units":(_unit-csv("imperialunits.csv")),
+    "prefixes":(_prefix-csv("prefixes.csv")),
     ),
   )
 )
