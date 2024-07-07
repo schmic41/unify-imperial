@@ -1,9 +1,5 @@
-# Unify-Imperial
-`unify` is a [Typst](https://github.com/typst/typst) package simplifying the typesetting of numbers, (physical and monetary) units, and ranges. It is the equivalent to LaTeX's `siunitx`, though not as mature.
-
-
-## Overview
-`unify-imperial` is an inaptly-named fork of checker's `unify` library, meant for typesetting units in Typst. All `unify-imperial` does is replace metric units with imperial ones.
+# Overview
+`unify-imperial` is an inaptly-named fork of [checker's `unify` library](https://github.com/ChHecker/unify), meant for typesetting units in Typst. All `unify-imperial` does is replace metric units with imperial ones.
 
 ## Examples
 
