@@ -1,6 +1,9 @@
 # Overview
 `unify-imperial` is an inaptly-named fork of [checker's `unify` library](https://github.com/ChHecker/unify), meant for typesetting units in Typst. All `unify-imperial` does is replace metric units with imperial ones.
 
+## Installation
+[Download this repository and install it locally](https://x.com/Eager99_/status/1811625933880652259), then import it into your Typst file as shown below. At the moment I do not plan to add this package to Typst Universe.
+
 ## Examples
 
 ```typ
